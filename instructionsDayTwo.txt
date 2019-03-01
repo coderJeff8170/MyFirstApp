@@ -26,6 +26,10 @@ the ready function in Jquery will halt the loading of the javascript until every
 
 a content developer network holds copies of a file so that the browser can use the nearest one and load page fastwer
 
+<<<<<<< HEAD
 whenever you open a new project, you initialize that folder after opening it in the IDE with thecommand 'git init'
 
 then, also in the terminal, you command 'git pull origin master'
+=======
+hello jeff
+>>>>>>> 443ddb9f9bd06188c5e176dfc5faa6087be9c8bc
