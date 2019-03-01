@@ -25,3 +25,5 @@ minifiers take out white space, obfuscators take lng names and make them shorter
 the ready function in Jquery will halt the loading of the javascript until everything on the web page is already loaded.
 
 a content developer network holds copies of a file so that the browser can use the nearest one and load page fastwer
+
+hello jeff
