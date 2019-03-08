@@ -1,0 +1,18 @@
+sandbox is a controlled environment - a virtual browser
+small set of resources, piece of RAM, HDD, Video Card, CPU
+full stack is server side, database, and front end web dev
+express sets up "plumbing" for webserver
+devops - test the code to see if it passes, 
+objects - entity with attributes
+
+classes
+
+git remote add origin (url)
+
+git pull origin master
+
+cdnjs - cloudflare paper.js
+
+commment uncomment in VSC - crt-K-C/ctrl-K
+
+
