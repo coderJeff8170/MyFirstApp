@@ -1,0 +1,35 @@
+objects vs methods vs classes
+
+classes have objects
+
+objects have properties
+
+properties have methods/functions
+
+Tool is an example of an objects
+
+constructor (new tool)
+
+shape.circle() circle is the method of the class "shape"
+
+asynchronic - things don't happen in a chronological order?
+    (rem scripting is line by line)
+    in the context of a promise - a result on which you are waiting that will lead to another block of code
+
+A plus man!!
+
+working with node
+
+code for the node
+
+terminal inside VS code is unix, therefore don't really need to know windows command line interface
+
+
+New Project:
+
+New github repository
+
+New local repository
+
+
+
