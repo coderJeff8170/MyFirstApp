@@ -1,0 +1,22 @@
+1. Find or create Repository in the Cloud (Github). Don't forget to check the readme file box.
+
+2. Create work folder in local computer, ideally with same name.
+
+3. Initialize git on work folder: type "git init" in terminal. 
+
+    Make sure you're in the work folder that you want to sync.
+    This will create a hidden .git file that holds the information git needs to sync to your repo.
+    if you screw up and init the wrong folder, you may see a crapload of files unstaged in your IDE.
+    Fear not! Go to terminal, navigate to the folder and type "rm -rf .git" - this will remove the git configuration file, causing your ide to stop tracking the files you didn't mean to track,
+    and more importantly, they will no longer annoyingly show up in your IDE.
+    Be careful using the rm (remove) command, especially with the tags -rf (recursively and with force- reaching into subdirectories and ignoring safety prompts)
+    make sure that .git is what you type afterward, as it will erase any file you name - you only want it to do that to the .git file.
+    Make sure you're in a directory that you want to link to a repo, and try again.
+
+4. Sync - type "git remote add origin (paste link to cloud repo here)"
+
+5. git pull origin master - this will pull any files in the cloud (the readme) into your local synced folder.
+
+6. Start working. Create file, stage, commmit, push.
+
+7. Make sure to pull before you start working, and push when you're done.

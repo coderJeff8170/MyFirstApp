@@ -1,13 +1,3 @@
-1. Create Repository in the Cloud (Github)
-
-2. Create work folder in local computer
-
-3. Initialize git on work folder (git init on terminal)
-
-4. Sync - git remote add origin (link for terminal)
-
-5. Create file, commmit, push.
-
 From home comupter, you can do a pull from the cloud repository.
 
 scripted languages run line by line, regular languages get compiled and run as one block.
@@ -25,11 +15,3 @@ minifiers take out white space, obfuscators take lng names and make them shorter
 the ready function in Jquery will halt the loading of the javascript until everything on the web page is already loaded.
 
 a content developer network holds copies of a file so that the browser can use the nearest one and load page fastwer
-
-<<<<<<< HEAD
-whenever you open a new project, you initialize that folder after opening it in the IDE with thecommand 'git init'
-
-then, also in the terminal, you command 'git pull origin master'
-=======
-hello jeff
->>>>>>> 443ddb9f9bd06188c5e176dfc5faa6087be9c8bc
